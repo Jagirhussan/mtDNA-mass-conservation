@@ -41,7 +41,7 @@ The simulations rely on standard scientific Python libraries, as well as dask fo
 It is recommended to run this code within an isolated virtual environment (e.g., using conda or venv).
 
 \# Clone the repository  
-git clone \[https://github.com/Jagirhussan/mtDNA-mass-conservation.git\](https://github.com/Jagirhussan/mtDNA-mass-conservation.git)  
+git clone [https://github.com/Jagirhussan/mtDNA-mass-conservation.git](https://github.com/Jagirhussan/mtDNA-mass-conservation.git)  
 cd mtDNA-mass-conservation
 
 \# Create a virtual environment (using venv)  
